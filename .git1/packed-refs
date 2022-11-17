@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+dbb173a6ef9ddf720628031aead35dbcc4326795 refs/remotes/origin/develop
+b0bd9165a87db8eda8afa49afb41a2481853b6a5 refs/remotes/origin/master
+1005c1baec57a62a6281e00b7417d292a1e11ef0 refs/remotes/origin/tache/historique_gain

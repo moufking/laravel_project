@@ -1,0 +1,28 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = ssh://git@dsp-archiwebo20-mt-ma-ca-fd.fr:2222/projetThipTop/backend_app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "feature-reclamation"]
+	remote = origin
+	merge = refs/heads/feature-reclamation
+[branch "pro"]
+	remote = origin
+	merge = refs/heads/pro
+[branch "prod"]
+	remote = origin
+	merge = refs/heads/prod
+[branch "feature-adding-social-login"]
+	remote = origin
+	merge = refs/heads/feature-adding-social-login

@@ -1,0 +1,21 @@
+0000000000000000000000000000000000000000 38440a967fdfecf5632815cd524737d8ee7a4b80 Moufid <moufking337@gmail.com> 1628833185 +0200	branch: Created from HEAD
+38440a967fdfecf5632815cd524737d8ee7a4b80 446e39abeb07daf820eed19cbb2607cc4495d217 Moufid <moufking337@gmail.com> 1628833371 +0200	commit: change name branch
+446e39abeb07daf820eed19cbb2607cc4495d217 4c11c1f1f208d026c8547620ab8e3baf670a381a Moufid <moufking337@gmail.com> 1628833541 +0200	commit: fix jenkins for prod
+4c11c1f1f208d026c8547620ab8e3baf670a381a 1f699853314d57205f2562f53c5622094944dead Moufid <moufking337@gmail.com> 1629007350 +0200	merge develop: Fast-forward
+1f699853314d57205f2562f53c5622094944dead 3c91422e2229fecce7d846ab2bac43811feeff24 Moufid <moufking337@gmail.com> 1629084547 +0200	commit: add aonother push
+3c91422e2229fecce7d846ab2bac43811feeff24 a8285c9df31af7000606a290c603694a0cfb3ea8 Moufid <moufking337@gmail.com> 1629194814 +0200	commit (merge): delete folder reports
+a8285c9df31af7000606a290c603694a0cfb3ea8 5d81c05e7bfd489c7f50565e1b5aecdaa7dee719 Moufid <moufking337@gmail.com> 1629801756 +0200	commit: test deploy
+5d81c05e7bfd489c7f50565e1b5aecdaa7dee719 9e9927e5ead09e64651e25dd469bddb0f98d3be2 Moufid <moufking337@gmail.com> 1629802028 +0200	commit: add jenkinsfile
+9e9927e5ead09e64651e25dd469bddb0f98d3be2 baa4b71c2626ee1515b6b5ad8f96c673fef37f18 Moufid <moufking337@gmail.com> 1629812626 +0200	merge develop: Fast-forward
+baa4b71c2626ee1515b6b5ad8f96c673fef37f18 a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd Moufid <moufking337@gmail.com> 1629878658 +0200	commit: add regex in register
+a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd fe60d2392d2acb026aadb280156a1786e3bd913c Moufid <moufking337@gmail.com> 1629883897 +0200	merge develop: Fast-forward
+fe60d2392d2acb026aadb280156a1786e3bd913c 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1629894449 +0200	commit: delet integer in regex
+5b1261a11c29466c4584f26ffec24f2ccb861463 58441a40aa750039c39019b3faee86ec7c24c511 moufking <moufking337@gmail.com> 1630694517 +0200	merge develop: Fast-forward
+58441a40aa750039c39019b3faee86ec7c24c511 32fce5c135f07c370e6d3c2493c779c68ce92371 moufking <moufking337@gmail.com> 1630873760 +0200	merge develop: Fast-forward
+32fce5c135f07c370e6d3c2493c779c68ce92371 846692efa4281306439fb5971fdbaf469ab79d90 moufking <moufking337@gmail.com> 1630907527 +0200	commit: add cors
+846692efa4281306439fb5971fdbaf469ab79d90 47bc1caa0816e27a267ebd46f5e855ad947071f0 moufking <moufking337@gmail.com> 1630909300 +0200	commit: add script in jenkins
+47bc1caa0816e27a267ebd46f5e855ad947071f0 a4335275a58bb3b7dc8229fae627a6cd7b2d542a moufking <moufking337@gmail.com> 1631023555 +0200	commit: change status
+a4335275a58bb3b7dc8229fae627a6cd7b2d542a b31126eecc1a2032d83a6adb4d7c6b0b14ef1063 moufking <moufking337@gmail.com> 1631039608 +0200	merge develop: Merge made by the 'recursive' strategy.
+b31126eecc1a2032d83a6adb4d7c6b0b14ef1063 4cd01db04987c9676c28ad5a11eda7f6a6bf30da moufking <moufking337@gmail.com> 1631039848 +0200	commit: change parameter in jenkins
+4cd01db04987c9676c28ad5a11eda7f6a6bf30da 90cabe692655be68f085fe99e7f8ef5cf8a1b07b moufking <moufking337@gmail.com> 1631059578 +0200	merge develop: Merge made by the 'recursive' strategy.
+90cabe692655be68f085fe99e7f8ef5cf8a1b07b 03ecb5dc46480a268a1008facc3e8252c573637d moufking <moufking337@gmail.com> 1631562953 +0200	merge develop: Merge made by the 'recursive' strategy.

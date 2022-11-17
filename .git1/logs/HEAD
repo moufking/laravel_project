@@ -1,0 +1,161 @@
+0000000000000000000000000000000000000000 b0bd9165a87db8eda8afa49afb41a2481853b6a5 Moufid <moufking337@gmail.com> 1626550483 +0200	clone: from ssh://dsp-archiwebo20-mt-ma-ca-fd.fr:2222/projetThipTop/backend_app.git
+b0bd9165a87db8eda8afa49afb41a2481853b6a5 dbb173a6ef9ddf720628031aead35dbcc4326795 Moufid <moufking337@gmail.com> 1626550758 +0200	checkout: moving from master to develop
+dbb173a6ef9ddf720628031aead35dbcc4326795 5650f073290aeacb2e58012057da5b3a28b2d249 Moufid <moufking337@gmail.com> 1626553223 +0200	commit: add documentation in readme file
+5650f073290aeacb2e58012057da5b3a28b2d249 d3c53f3c1421c9ef164126c4de866a141cb30c20 Moufid <moufking337@gmail.com> 1626553253 +0200	commit: add documentation in readme file
+d3c53f3c1421c9ef164126c4de866a141cb30c20 0ff7fbb8da53c6c6542393ba05f74c5e4a876535 Moufid <moufking337@gmail.com> 1626595908 +0200	pull: Fast-forward
+0ff7fbb8da53c6c6542393ba05f74c5e4a876535 00bdd80718539f18d8e216e5f94f1c0d61d2fc85 Moufid <moufking337@gmail.com> 1626596608 +0200	commit: fix display lots
+00bdd80718539f18d8e216e5f94f1c0d61d2fc85 7ced66e0da963867441c151d8c06ebd56603d1d2 Moufid <moufking337@gmail.com> 1626639503 +0200	commit: add test and fix display role
+7ced66e0da963867441c151d8c06ebd56603d1d2 2595b3885bd6892880ee23af5d853658125c8bb8 Moufid <moufking337@gmail.com> 1627382475 +0200	commit: add test and fix migration role
+2595b3885bd6892880ee23af5d853658125c8bb8 b7ea9fdd5815d585d5740a250ea04e09be29b0cc Moufid <moufking337@gmail.com> 1627382880 +0200	pull: Merge made by the 'recursive' strategy.
+b7ea9fdd5815d585d5740a250ea04e09be29b0cc bcfa060ce22c4d3a428ac53e596f18ddddd06d7e Moufid <moufking337@gmail.com> 1627383372 +0200	commit: add connection in ssh with jenkins
+bcfa060ce22c4d3a428ac53e596f18ddddd06d7e d02502f498f85e830f815119a06d664269b16f93 Moufid <moufking337@gmail.com> 1627383946 +0200	commit: comment unitTest
+d02502f498f85e830f815119a06d664269b16f93 43c87d52c0a50f041424b316942a32ed446e0435 Moufid <moufking337@gmail.com> 1627440735 +0200	commit: another version image
+43c87d52c0a50f041424b316942a32ed446e0435 a25e2898157bb84a32b5764bcc98c415272bd1ad Moufid <moufking337@gmail.com> 1627472664 +0200	commit: fix bug unit test
+a25e2898157bb84a32b5764bcc98c415272bd1ad a25e2898157bb84a32b5764bcc98c415272bd1ad Moufid <moufking337@gmail.com> 1627472682 +0200	checkout: moving from develop to feature-reclamation
+a25e2898157bb84a32b5764bcc98c415272bd1ad f9f1675c7cebc2e983075769d5ad9819506a0c0b Moufid <moufking337@gmail.com> 1627546677 +0200	commit: add reclamation feature
+f9f1675c7cebc2e983075769d5ad9819506a0c0b a25e2898157bb84a32b5764bcc98c415272bd1ad Moufid <moufking337@gmail.com> 1627547634 +0200	checkout: moving from feature-reclamation to develop
+a25e2898157bb84a32b5764bcc98c415272bd1ad f9f1675c7cebc2e983075769d5ad9819506a0c0b Moufid <moufking337@gmail.com> 1627547649 +0200	merge feature-reclamation: Fast-forward
+f9f1675c7cebc2e983075769d5ad9819506a0c0b a5e50396dfd39451b4f70a1d86eb2d3fd9ee924d Moufid <moufking337@gmail.com> 1627623059 +0200	commit: fix file .env-example
+a5e50396dfd39451b4f70a1d86eb2d3fd9ee924d e1b768aca4e7b586ba634a3f1f014cedff110900 Moufid <moufking337@gmail.com> 1627650573 +0200	commit: add other column to save register and historical_id in reclamation
+e1b768aca4e7b586ba634a3f1f014cedff110900 f571c14e947662119cc932b11657ad808c7fdc46 Moufid <moufking337@gmail.com> 1627796383 +0200	commit: run test, add reclamation create and list , and another column in create and update user
+f571c14e947662119cc932b11657ad808c7fdc46 00eeade0a054cebe68b27f635270afb68ad0784b Moufid <moufking337@gmail.com> 1627800005 +0200	commit: fix bug test
+00eeade0a054cebe68b27f635270afb68ad0784b 6c81d37d9ccc9f1ecf6a1d83ab525b7c0be47667 Moufid <moufking337@gmail.com> 1627818348 +0200	commit: add command to generate ticket via cmd
+6c81d37d9ccc9f1ecf6a1d83ab525b7c0be47667 b62ef8615e4908a407e482f48e17b27a3dfdc667 Moufid <moufking337@gmail.com> 1627850553 +0200	commit: review dockerfle
+b62ef8615e4908a407e482f48e17b27a3dfdc667 b0c3a5f7146ca0ae775c72ead33ab64945e6e118 Moufid <moufking337@gmail.com> 1627850671 +0200	commit: review dockerfle and add permission
+b0c3a5f7146ca0ae775c72ead33ab64945e6e118 522be3d0f59b4be953f7b243cb63ddf31183f65d Moufid <moufking337@gmail.com> 1627941219 +0200	commit: review image jenkins
+522be3d0f59b4be953f7b243cb63ddf31183f65d a7bbb86d5f29def6ebffecc007bab3f264d41f47 Moufid <moufking337@gmail.com> 1627985974 +0200	commit: expose port in Dockerfile
+a7bbb86d5f29def6ebffecc007bab3f264d41f47 a5fd0916ee48f2206af371eefc146234b7cdfb03 Moufid <moufking337@gmail.com> 1627993329 +0200	commit: add information in historique
+a5fd0916ee48f2206af371eefc146234b7cdfb03 b0d22795bb35733923930376e4c2446e43383783 Moufid <moufking337@gmail.com> 1628026838 +0200	commit: fix https in .env file
+b0d22795bb35733923930376e4c2446e43383783 76962d93e623bdaaca68dfd9b9d884b6527ac3f7 Moufid <moufking337@gmail.com> 1628105073 +0200	commit: add test and report
+76962d93e623bdaaca68dfd9b9d884b6527ac3f7 0ec7150de06c57f061591547ce564e8b34666c68 Moufid <moufking337@gmail.com> 1628109057 +0200	commit: rename Reclamation name file
+0ec7150de06c57f061591547ce564e8b34666c68 93c859d18490f4065ee7224365cf1cc915bda882 Moufid <moufking337@gmail.com> 1628113160 +0200	commit: fix test fonctionnal
+93c859d18490f4065ee7224365cf1cc915bda882 0104736d652c4f41f1f884af4d2a8c368d3a7b88 Moufid <moufking337@gmail.com> 1628113407 +0200	commit: fix bug test
+0104736d652c4f41f1f884af4d2a8c368d3a7b88 aa9517814fd9abc07761655f0a2a2f1b21cf1fa0 Moufid <moufking337@gmail.com> 1628113659 +0200	commit: add carbon in registertest
+aa9517814fd9abc07761655f0a2a2f1b21cf1fa0 ef0a3f7bf28663ed670e8594da1ccad8012495b5 Moufid <moufking337@gmail.com> 1628113831 +0200	commit: add carbon in registertest
+ef0a3f7bf28663ed670e8594da1ccad8012495b5 2f4e742828c8cc7d5d8cc86043824fcabf07df3b Moufid <moufking337@gmail.com> 1628143171 +0200	pull: Fast-forward
+2f4e742828c8cc7d5d8cc86043824fcabf07df3b 0d8570f1b511e35dfd40f3060b8b8fea4b4897d6 Moufid <moufking337@gmail.com> 1628324734 +0200	commit: fix and add new feature
+0d8570f1b511e35dfd40f3060b8b8fea4b4897d6 9e07773f15ba2b0ed7358505e56a47e406998a31 Moufid <moufking337@gmail.com> 1628325794 +0200	commit: Processus deploiement A-Z jenkins
+9e07773f15ba2b0ed7358505e56a47e406998a31 56b3f37d8c255a4bb127421361f557e86e379446 Moufid <moufking337@gmail.com> 1628330505 +0200	commit: Processus deploiement A-Z jenkins2
+56b3f37d8c255a4bb127421361f557e86e379446 0255c56b78d6a3345a983e41cfe06467054ffd30 Moufid <moufking337@gmail.com> 1628340013 +0200	commit: Run test Jenkins
+0255c56b78d6a3345a983e41cfe06467054ffd30 b18e9b11a7c8c19f3b558b2d4060b641add3180d Moufid <moufking337@gmail.com> 1628341098 +0200	commit: update list lot
+b18e9b11a7c8c19f3b558b2d4060b641add3180d 13caf2093f585780c6b1d439a20be9a1f5e28d50 Moufid <moufking337@gmail.com> 1628346643 +0200	commit: fix display reclation
+13caf2093f585780c6b1d439a20be9a1f5e28d50 0fa2d5b6e2c846c6ca397b1f163e3576e009911d Moufid <moufking337@gmail.com> 1628364911 +0200	commit: reformat jenkins file
+0fa2d5b6e2c846c6ca397b1f163e3576e009911d c896a9833796e30ba3efb3481cdbbac5d01177c2 Moufid <moufking337@gmail.com> 1628365381 +0200	commit: fix clear .script
+c896a9833796e30ba3efb3481cdbbac5d01177c2 368da1689881fae87085e85030f563efc5a46f02 Moufid <moufking337@gmail.com> 1628499990 +0200	pull: Fast-forward
+368da1689881fae87085e85030f563efc5a46f02 c3909292ffbc8c07071b4400cd0b5190280f94e0 Moufid <moufking337@gmail.com> 1628510433 +0200	commit: implement update password
+c3909292ffbc8c07071b4400cd0b5190280f94e0 fa3194c60b0320b23a32b1a8d07adb781e68c560 Moufid <moufking337@gmail.com> 1628516092 +0200	commit: fix bug test
+fa3194c60b0320b23a32b1a8d07adb781e68c560 fa3194c60b0320b23a32b1a8d07adb781e68c560 Moufid <moufking337@gmail.com> 1628529147 +0200	checkout: moving from develop to pro
+fa3194c60b0320b23a32b1a8d07adb781e68c560 aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec Moufid <moufking337@gmail.com> 1628799264 +0200	commit: add prod and develop in jenkinsfile
+aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec fa3194c60b0320b23a32b1a8d07adb781e68c560 Moufid <moufking337@gmail.com> 1628799275 +0200	checkout: moving from pro to develop
+fa3194c60b0320b23a32b1a8d07adb781e68c560 aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec Moufid <moufking337@gmail.com> 1628799304 +0200	merge pro: Fast-forward
+aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec 75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 Moufid <moufking337@gmail.com> 1628800419 +0200	commit: comand test
+75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec Moufid <moufking337@gmail.com> 1628800627 +0200	checkout: moving from develop to pro
+aad589e3055679fcfc3dc5b6d0d84ee4bf7b3bec 75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 Moufid <moufking337@gmail.com> 1628800636 +0200	merge develop: Fast-forward
+75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 2d0f88847d6c105213754dca6eb1ecf02d465f6d Moufid <moufking337@gmail.com> 1628800824 +0200	commit: command run test in prod
+2d0f88847d6c105213754dca6eb1ecf02d465f6d c2892c7383d271d64b0bbcc17286486845001736 Moufid <moufking337@gmail.com> 1628801796 +0200	commit: fix run test
+c2892c7383d271d64b0bbcc17286486845001736 75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 Moufid <moufking337@gmail.com> 1628801883 +0200	checkout: moving from pro to develop
+75348bd0cc7c7eb6e67b4392bb1dedcd1a723ae6 c2892c7383d271d64b0bbcc17286486845001736 Moufid <moufking337@gmail.com> 1628801892 +0200	merge pro: Fast-forward
+c2892c7383d271d64b0bbcc17286486845001736 93b86d4e12973514ce148c01f9c65b787772fc25 Moufid <moufking337@gmail.com> 1628802696 +0200	commit: change .env.test
+93b86d4e12973514ce148c01f9c65b787772fc25 38440a967fdfecf5632815cd524737d8ee7a4b80 Moufid <moufking337@gmail.com> 1628831744 +0200	commit: edit env.testing file in jenkins
+38440a967fdfecf5632815cd524737d8ee7a4b80 c2892c7383d271d64b0bbcc17286486845001736 Moufid <moufking337@gmail.com> 1628832210 +0200	checkout: moving from develop to pro
+c2892c7383d271d64b0bbcc17286486845001736 38440a967fdfecf5632815cd524737d8ee7a4b80 Moufid <moufking337@gmail.com> 1628832216 +0200	merge develop: Fast-forward
+38440a967fdfecf5632815cd524737d8ee7a4b80 38440a967fdfecf5632815cd524737d8ee7a4b80 Moufid <moufking337@gmail.com> 1628833185 +0200	checkout: moving from pro to prod
+38440a967fdfecf5632815cd524737d8ee7a4b80 446e39abeb07daf820eed19cbb2607cc4495d217 Moufid <moufking337@gmail.com> 1628833371 +0200	commit: change name branch
+446e39abeb07daf820eed19cbb2607cc4495d217 4c11c1f1f208d026c8547620ab8e3baf670a381a Moufid <moufking337@gmail.com> 1628833541 +0200	commit: fix jenkins for prod
+4c11c1f1f208d026c8547620ab8e3baf670a381a 38440a967fdfecf5632815cd524737d8ee7a4b80 Moufid <moufking337@gmail.com> 1628833556 +0200	checkout: moving from prod to develop
+38440a967fdfecf5632815cd524737d8ee7a4b80 4c11c1f1f208d026c8547620ab8e3baf670a381a Moufid <moufking337@gmail.com> 1628833565 +0200	merge prod: Fast-forward
+4c11c1f1f208d026c8547620ab8e3baf670a381a 7efe54c411045fd01f90405f60730c4bf2b85e01 Moufid <moufking337@gmail.com> 1629006743 +0200	commit: implement forget password and run test
+7efe54c411045fd01f90405f60730c4bf2b85e01 1f699853314d57205f2562f53c5622094944dead Moufid <moufking337@gmail.com> 1629006805 +0200	pull: Merge made by the 'recursive' strategy.
+1f699853314d57205f2562f53c5622094944dead 4c11c1f1f208d026c8547620ab8e3baf670a381a Moufid <moufking337@gmail.com> 1629007344 +0200	checkout: moving from develop to prod
+4c11c1f1f208d026c8547620ab8e3baf670a381a 1f699853314d57205f2562f53c5622094944dead Moufid <moufking337@gmail.com> 1629007350 +0200	merge develop: Fast-forward
+1f699853314d57205f2562f53c5622094944dead 3c91422e2229fecce7d846ab2bac43811feeff24 Moufid <moufking337@gmail.com> 1629084547 +0200	commit: add aonother push
+3c91422e2229fecce7d846ab2bac43811feeff24 1f699853314d57205f2562f53c5622094944dead Moufid <moufking337@gmail.com> 1629084710 +0200	checkout: moving from prod to develop
+1f699853314d57205f2562f53c5622094944dead e8dec00d1cd857998465986ac7104daba0aef01c Moufid <moufking337@gmail.com> 1629084716 +0200	pull: Fast-forward
+e8dec00d1cd857998465986ac7104daba0aef01c 7a52e1d745d203d545994d26b9961c632c4edace Moufid <moufking337@gmail.com> 1629085202 +0200	commit: change .ignore file
+7a52e1d745d203d545994d26b9961c632c4edace f236d45cd679c814b18a0a5738996082a024f47e Moufid <moufking337@gmail.com> 1629087745 +0200	commit: add gmail in env.testing
+f236d45cd679c814b18a0a5738996082a024f47e 0e6454117c86032a749d8f426183d2696599b2cf Moufid <moufking337@gmail.com> 1629087900 +0200	commit: add gmail in env.testing
+0e6454117c86032a749d8f426183d2696599b2cf 656b97ccac12ec77aae06d07e3598cb23713efde Moufid <moufking337@gmail.com> 1629088272 +0200	commit: delete required
+656b97ccac12ec77aae06d07e3598cb23713efde da857d896ede2e55dcd2b479b225998e1306d8fa Moufid <moufking337@gmail.com> 1629091067 +0200	commit: add parameter mail
+da857d896ede2e55dcd2b479b225998e1306d8fa edd15b92d2faf3a951643f447e58882f672c6239 Moufid <moufking337@gmail.com> 1629194491 +0200	commit: add feature in jenkins file
+edd15b92d2faf3a951643f447e58882f672c6239 3c91422e2229fecce7d846ab2bac43811feeff24 Moufid <moufking337@gmail.com> 1629194736 +0200	checkout: moving from develop to prod
+3c91422e2229fecce7d846ab2bac43811feeff24 a8285c9df31af7000606a290c603694a0cfb3ea8 Moufid <moufking337@gmail.com> 1629194814 +0200	commit (merge): delete folder reports
+a8285c9df31af7000606a290c603694a0cfb3ea8 5d81c05e7bfd489c7f50565e1b5aecdaa7dee719 Moufid <moufking337@gmail.com> 1629801756 +0200	commit: test deploy
+5d81c05e7bfd489c7f50565e1b5aecdaa7dee719 9e9927e5ead09e64651e25dd469bddb0f98d3be2 Moufid <moufking337@gmail.com> 1629802028 +0200	commit: add jenkinsfile
+9e9927e5ead09e64651e25dd469bddb0f98d3be2 edd15b92d2faf3a951643f447e58882f672c6239 Moufid <moufking337@gmail.com> 1629802184 +0200	checkout: moving from prod to develop
+edd15b92d2faf3a951643f447e58882f672c6239 9e9927e5ead09e64651e25dd469bddb0f98d3be2 Moufid <moufking337@gmail.com> 1629802190 +0200	merge prod: Fast-forward
+9e9927e5ead09e64651e25dd469bddb0f98d3be2 baa4b71c2626ee1515b6b5ad8f96c673fef37f18 Moufid <moufking337@gmail.com> 1629812370 +0200	commit: test
+baa4b71c2626ee1515b6b5ad8f96c673fef37f18 9e9927e5ead09e64651e25dd469bddb0f98d3be2 Moufid <moufking337@gmail.com> 1629812621 +0200	checkout: moving from develop to prod
+9e9927e5ead09e64651e25dd469bddb0f98d3be2 baa4b71c2626ee1515b6b5ad8f96c673fef37f18 Moufid <moufking337@gmail.com> 1629812626 +0200	merge develop: Fast-forward
+baa4b71c2626ee1515b6b5ad8f96c673fef37f18 a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd Moufid <moufking337@gmail.com> 1629878658 +0200	commit: add regex in register
+a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd baa4b71c2626ee1515b6b5ad8f96c673fef37f18 Moufid <moufking337@gmail.com> 1629878712 +0200	checkout: moving from prod to develop
+baa4b71c2626ee1515b6b5ad8f96c673fef37f18 a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd Moufid <moufking337@gmail.com> 1629878720 +0200	merge prod: Fast-forward
+a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd fe60d2392d2acb026aadb280156a1786e3bd913c Moufid <moufking337@gmail.com> 1629880358 +0200	commit: fix regex to filter name and email
+fe60d2392d2acb026aadb280156a1786e3bd913c a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd Moufid <moufking337@gmail.com> 1629883890 +0200	checkout: moving from develop to prod
+a291bfde8c9280fc7b6ac43a5fe09ab0f0ff57dd fe60d2392d2acb026aadb280156a1786e3bd913c Moufid <moufking337@gmail.com> 1629883897 +0200	merge develop: Fast-forward
+fe60d2392d2acb026aadb280156a1786e3bd913c 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1629894449 +0200	commit: delet integer in regex
+5b1261a11c29466c4584f26ffec24f2ccb861463 fe60d2392d2acb026aadb280156a1786e3bd913c Moufid <moufking337@gmail.com> 1629894554 +0200	checkout: moving from prod to develop
+fe60d2392d2acb026aadb280156a1786e3bd913c 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1629894568 +0200	merge prod: Fast-forward
+5b1261a11c29466c4584f26ffec24f2ccb861463 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1629903911 +0200	checkout: moving from develop to prod
+5b1261a11c29466c4584f26ffec24f2ccb861463 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1629903940 +0200	checkout: moving from prod to develop
+5b1261a11c29466c4584f26ffec24f2ccb861463 3e4f19411eaf6f41191fa76a6191404756b9ad68 Moufid <moufking337@gmail.com> 1630213920 +0200	checkout: moving from develop to feature-adding-social-login
+3e4f19411eaf6f41191fa76a6191404756b9ad68 650636946be34e170fa391b7aeb3906dc269217e Moufid <moufking337@gmail.com> 1630223457 +0200	commit: add in fix test
+650636946be34e170fa391b7aeb3906dc269217e 5b1261a11c29466c4584f26ffec24f2ccb861463 Moufid <moufking337@gmail.com> 1630305477 +0200	checkout: moving from feature-adding-social-login to develop
+5b1261a11c29466c4584f26ffec24f2ccb861463 eff36377388acf0affdebd2a1f76ffdb83881679 Moufid <moufking337@gmail.com> 1630313827 +0200	commit: add download file
+eff36377388acf0affdebd2a1f76ffdb83881679 e9c46825ddc5986af27d53b00b412ab190fb2f6b Moufid <moufking337@gmail.com> 1630442774 +0200	commit: implement Backup
+e9c46825ddc5986af27d53b00b412ab190fb2f6b d21f1ceaa850e0cb4f0b9113cd4a029ee5b38277 moufking <moufking337@gmail.com> 1630607726 +0200	commit: change result response
+d21f1ceaa850e0cb4f0b9113cd4a029ee5b38277 650636946be34e170fa391b7aeb3906dc269217e moufking <moufking337@gmail.com> 1630693013 +0200	checkout: moving from develop to feature-adding-social-login
+650636946be34e170fa391b7aeb3906dc269217e 9d04c7821f9e97b4f076a4161d28c2d7c1edeb46 moufking <moufking337@gmail.com> 1630693025 +0200	pull: Fast-forward
+9d04c7821f9e97b4f076a4161d28c2d7c1edeb46 05412519d0d4148c4104325f9e543c8874ab511f moufking <moufking337@gmail.com> 1630693215 +0200	commit: add status in Authocontroller
+05412519d0d4148c4104325f9e543c8874ab511f d21f1ceaa850e0cb4f0b9113cd4a029ee5b38277 moufking <moufking337@gmail.com> 1630693222 +0200	checkout: moving from feature-adding-social-login to develop
+d21f1ceaa850e0cb4f0b9113cd4a029ee5b38277 58441a40aa750039c39019b3faee86ec7c24c511 moufking <moufking337@gmail.com> 1630693932 +0200	commit (merge): merge social and develop
+58441a40aa750039c39019b3faee86ec7c24c511 5b1261a11c29466c4584f26ffec24f2ccb861463 moufking <moufking337@gmail.com> 1630694511 +0200	checkout: moving from develop to prod
+5b1261a11c29466c4584f26ffec24f2ccb861463 58441a40aa750039c39019b3faee86ec7c24c511 moufking <moufking337@gmail.com> 1630694517 +0200	merge develop: Fast-forward
+58441a40aa750039c39019b3faee86ec7c24c511 58441a40aa750039c39019b3faee86ec7c24c511 moufking <moufking337@gmail.com> 1630872998 +0200	checkout: moving from prod to develop
+58441a40aa750039c39019b3faee86ec7c24c511 5547b3f13d6fb2dc4fefc7fce2bc78edecfde878 moufking <moufking337@gmail.com> 1630873003 +0200	pull: Fast-forward
+5547b3f13d6fb2dc4fefc7fce2bc78edecfde878 9d8607209bfb86ea1ce3fd42ebae6847e25c5e3b moufking <moufking337@gmail.com> 1630873137 +0200	commit: update message error
+9d8607209bfb86ea1ce3fd42ebae6847e25c5e3b 1c5d1dfb592f88bd58e7cbc20eef91bf03fd771f moufking <moufking337@gmail.com> 1630873411 +0200	commit: update message error
+1c5d1dfb592f88bd58e7cbc20eef91bf03fd771f 32fce5c135f07c370e6d3c2493c779c68ce92371 moufking <moufking337@gmail.com> 1630873546 +0200	commit: update message error
+32fce5c135f07c370e6d3c2493c779c68ce92371 58441a40aa750039c39019b3faee86ec7c24c511 moufking <moufking337@gmail.com> 1630873736 +0200	checkout: moving from develop to prod
+58441a40aa750039c39019b3faee86ec7c24c511 32fce5c135f07c370e6d3c2493c779c68ce92371 moufking <moufking337@gmail.com> 1630873760 +0200	merge develop: Fast-forward
+32fce5c135f07c370e6d3c2493c779c68ce92371 32fce5c135f07c370e6d3c2493c779c68ce92371 moufking <moufking337@gmail.com> 1630906953 +0200	checkout: moving from prod to develop
+32fce5c135f07c370e6d3c2493c779c68ce92371 80f683d0a1f925806c08bbce1f6da2db85774d35 moufking <moufking337@gmail.com> 1630906992 +0200	pull: Fast-forward
+80f683d0a1f925806c08bbce1f6da2db85774d35 32fce5c135f07c370e6d3c2493c779c68ce92371 moufking <moufking337@gmail.com> 1630907007 +0200	checkout: moving from develop to prod
+32fce5c135f07c370e6d3c2493c779c68ce92371 846692efa4281306439fb5971fdbaf469ab79d90 moufking <moufking337@gmail.com> 1630907527 +0200	commit: add cors
+846692efa4281306439fb5971fdbaf469ab79d90 80f683d0a1f925806c08bbce1f6da2db85774d35 moufking <moufking337@gmail.com> 1630907694 +0200	checkout: moving from prod to develop
+80f683d0a1f925806c08bbce1f6da2db85774d35 38a2850b6c81e3d1a5162c8020032020aace2d31 moufking <moufking337@gmail.com> 1630907699 +0200	merge prod: Merge made by the 'recursive' strategy.
+38a2850b6c81e3d1a5162c8020032020aace2d31 c9e8ecee1455823f4228eba3916370c8745dae78 moufking <moufking337@gmail.com> 1630908511 +0200	commit: change jenkinsfile
+c9e8ecee1455823f4228eba3916370c8745dae78 846692efa4281306439fb5971fdbaf469ab79d90 moufking <moufking337@gmail.com> 1630908532 +0200	checkout: moving from develop to prod
+846692efa4281306439fb5971fdbaf469ab79d90 47bc1caa0816e27a267ebd46f5e855ad947071f0 moufking <moufking337@gmail.com> 1630909300 +0200	commit: add script in jenkins
+47bc1caa0816e27a267ebd46f5e855ad947071f0 a4335275a58bb3b7dc8229fae627a6cd7b2d542a moufking <moufking337@gmail.com> 1631023555 +0200	commit: change status
+a4335275a58bb3b7dc8229fae627a6cd7b2d542a c9e8ecee1455823f4228eba3916370c8745dae78 moufking <moufking337@gmail.com> 1631023562 +0200	checkout: moving from prod to develop
+c9e8ecee1455823f4228eba3916370c8745dae78 1012913cb26995771e4043376f3e76c3d7d2d04b moufking <moufking337@gmail.com> 1631038854 +0200	commit: implement verification confirmation email
+1012913cb26995771e4043376f3e76c3d7d2d04b a4335275a58bb3b7dc8229fae627a6cd7b2d542a moufking <moufking337@gmail.com> 1631039596 +0200	checkout: moving from develop to prod
+a4335275a58bb3b7dc8229fae627a6cd7b2d542a b31126eecc1a2032d83a6adb4d7c6b0b14ef1063 moufking <moufking337@gmail.com> 1631039608 +0200	merge develop: Merge made by the 'recursive' strategy.
+b31126eecc1a2032d83a6adb4d7c6b0b14ef1063 4cd01db04987c9676c28ad5a11eda7f6a6bf30da moufking <moufking337@gmail.com> 1631039848 +0200	commit: change parameter in jenkins
+4cd01db04987c9676c28ad5a11eda7f6a6bf30da 1012913cb26995771e4043376f3e76c3d7d2d04b moufking <moufking337@gmail.com> 1631059459 +0200	checkout: moving from prod to develop
+1012913cb26995771e4043376f3e76c3d7d2d04b b72f196b3dec169524d7ede542dddee0d97bdfee moufking <moufking337@gmail.com> 1631059549 +0200	pull: Fast-forward
+b72f196b3dec169524d7ede542dddee0d97bdfee 4cd01db04987c9676c28ad5a11eda7f6a6bf30da moufking <moufking337@gmail.com> 1631059572 +0200	checkout: moving from develop to prod
+4cd01db04987c9676c28ad5a11eda7f6a6bf30da 90cabe692655be68f085fe99e7f8ef5cf8a1b07b moufking <moufking337@gmail.com> 1631059578 +0200	merge develop: Merge made by the 'recursive' strategy.
+90cabe692655be68f085fe99e7f8ef5cf8a1b07b b72f196b3dec169524d7ede542dddee0d97bdfee moufking <moufking337@gmail.com> 1631187130 +0200	checkout: moving from prod to develop
+b72f196b3dec169524d7ede542dddee0d97bdfee b72f196b3dec169524d7ede542dddee0d97bdfee moufking <moufking337@gmail.com> 1631187204 +0200	checkout: moving from develop to prometheus-exporter
+b72f196b3dec169524d7ede542dddee0d97bdfee b72f196b3dec169524d7ede542dddee0d97bdfee moufking <moufking337@gmail.com> 1631200853 +0200	checkout: moving from prometheus-exporter to develop
+b72f196b3dec169524d7ede542dddee0d97bdfee 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631200870 +0200	commit: change file
+66cae97a40c3e6aa09e8506a324041ace0431179 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631200875 +0200	checkout: moving from develop to develop
+66cae97a40c3e6aa09e8506a324041ace0431179 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631200918 +0200	checkout: moving from develop to prometheus-exporter
+66cae97a40c3e6aa09e8506a324041ace0431179 e2d6d2c5ee34f2c403c58c9bc6ec0d986e92404e moufking <moufking337@gmail.com> 1631215277 +0200	commit: start implement prometheus
+e2d6d2c5ee34f2c403c58c9bc6ec0d986e92404e 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631215282 +0200	checkout: moving from prometheus-exporter to develop
+66cae97a40c3e6aa09e8506a324041ace0431179 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631356961 +0200	checkout: moving from develop to implement-doc
+66cae97a40c3e6aa09e8506a324041ace0431179 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631459655 +0200	checkout: moving from implement-doc to develop
+66cae97a40c3e6aa09e8506a324041ace0431179 8dd0406a6b10820c6318adf8417a39e432e7bfb8 moufking <moufking337@gmail.com> 1631459681 +0200	commit: implement docs
+8dd0406a6b10820c6318adf8417a39e432e7bfb8 8dd0406a6b10820c6318adf8417a39e432e7bfb8 moufking <moufking337@gmail.com> 1631459688 +0200	checkout: moving from develop to develop
+8dd0406a6b10820c6318adf8417a39e432e7bfb8 800bf6f0d3725fa06fceb928f535a4ef98153476 moufking <moufking337@gmail.com> 1631525253 +0200	commit: test
+800bf6f0d3725fa06fceb928f535a4ef98153476 c7424470bbc09818308b8281f8b164db3bc9bd65 moufking <moufking337@gmail.com> 1631536493 +0200	commit: test
+c7424470bbc09818308b8281f8b164db3bc9bd65 3261250787b3fb46487ce0e6ee341a3f03cfb843 moufking <moufking337@gmail.com> 1631562585 +0200	commit: add regex
+3261250787b3fb46487ce0e6ee341a3f03cfb843 90cabe692655be68f085fe99e7f8ef5cf8a1b07b moufking <moufking337@gmail.com> 1631562944 +0200	checkout: moving from develop to prod
+90cabe692655be68f085fe99e7f8ef5cf8a1b07b 03ecb5dc46480a268a1008facc3e8252c573637d moufking <moufking337@gmail.com> 1631562953 +0200	merge develop: Merge made by the 'recursive' strategy.
+03ecb5dc46480a268a1008facc3e8252c573637d 66cae97a40c3e6aa09e8506a324041ace0431179 moufking <moufking337@gmail.com> 1631594462 +0200	checkout: moving from prod to implement-doc
+66cae97a40c3e6aa09e8506a324041ace0431179 3261250787b3fb46487ce0e6ee341a3f03cfb843 moufking <moufking337@gmail.com> 1631594671 +0200	checkout: moving from implement-doc to develop
+3261250787b3fb46487ce0e6ee341a3f03cfb843 3261250787b3fb46487ce0e6ee341a3f03cfb843 moufking <moufking337@gmail.com> 1631594882 +0200	checkout: moving from develop to implement-doc
+3261250787b3fb46487ce0e6ee341a3f03cfb843 023dae9e93147e9e58f52567ee854e863f2993e1 moufking <moufking337@gmail.com> 1632033345 +0200	commit: add request
+023dae9e93147e9e58f52567ee854e863f2993e1 f124558889e0246061b2df8c1e76b24ff31641bd moufking <moufking337@gmail.com> 1632198901 +0200	commit: add request
+f124558889e0246061b2df8c1e76b24ff31641bd 3261250787b3fb46487ce0e6ee341a3f03cfb843 moufking <moufking337@gmail.com> 1632198906 +0200	checkout: moving from implement-doc to develop
